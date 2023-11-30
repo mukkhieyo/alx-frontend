@@ -1,0 +1,2 @@
+<h1>Responsive Designs</h1>
+<p>Learning mobile first designs, media queries, how to make a website responsive, the differences between responsive and adaptive design, CSS units that are used to make elements flexible</p>
